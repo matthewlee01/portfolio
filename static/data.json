@@ -1,0 +1,218 @@
+{
+	"tagDirectory": [
+		{
+			"category": "Project Type",
+			"tags": [
+				"Corporate",
+				"Side Project",
+				"Academic Work"
+			]
+		},
+		{
+			"category": "Languages",
+			"tags": [
+				"Ruby/Rails",
+				"HTML",
+				"JavaScript",
+				"CSS"
+			]
+		},
+		{
+			"category": "Tools & Skills",
+			"tags": [
+				"Insomnia",
+				"GraphQL"
+			]
+		},
+		{
+			"category": "Skills",
+			"tags": [
+				"Backend Development",
+				"UI/UX Design",
+				"Data Analysis",
+				"Research"
+			]
+		}
+	],
+	"items": [
+		{
+			"project": "Daily Code Sketch Practice",
+			"organization": "Personal Project",
+			"startDate": "Jan 2024",
+			"endDate": "Present",
+			"highlights": [
+				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishng a new animation every day."
+			],
+			"tags": [
+				"Backend Development",
+				"UI/UX Design",
+				"Side Project",
+				"JavaScript"
+			]
+		},
+		{
+			"project": "Online Storefront",
+			"position": "Contract Software Developer",
+			"organization": "Fresh Prep",
+			"startDate": "May 2023",
+			"endDate": "Present",
+			"highlights": [
+				"Developed & updated features for the Peko Produce online storefront, including a major product launch & a regional expansion.",
+				"Streamlined and automated a variety of operational processes, including inventory management, order fulfillment, and customer support.",
+				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes."
+			],
+			"tags": [
+				"Backend Development",
+				"Insomnia",
+				"UI/UX Design",
+				"Corporate",
+				"JavaScript",
+				"HTML",
+				"CSS"
+			]
+		},
+		{
+			"project": "Advanced Methods for HCI",
+			"organization": "CPSC 444",
+			"startDate": "Jan 2024",
+			"endDate": "Present",
+			"highlights": [
+				"Researched, planned, and proposed a directed study to address the issue of digital clutter.",
+				"Devised & executed a series of user questionnaires, interviews, and usability tests to gain a better understanding of the problem space.",
+				"Designed & iterated on an interface to support the task of digital decluttering, based on the results of the study."
+			],
+			"tags": [
+				"Academic Work",
+				"UX/UI Design",
+				"Figma",
+				"Research",
+				"Data Analysis"
+			]
+		},
+		{
+			"project": "Portfolio Website",
+			"organization": "Personal Project",
+			"endDate": "Feb 2024",
+			"highlights": [
+				"Built over the course mid-semester reading break."
+			],
+			"tags": [
+				"JavaScript",
+				"Svelte",
+				"HTML",
+				"CSS",
+				"UI/UX Design",
+				"Side Project"
+			]
+		},
+		{
+			"project": "Parallel Computation",
+			"organization": "CPSC 418",
+			"startDate": "Sep 2023",
+			"endDate": "Dec 2023",
+			"highlights": [
+				"Studied a variety of parallel algorithms, memory systems, & architectures.",
+				"Gained hands-on experience programming & optimizing CUDA kernels on a GPU.",
+				"Analyzed a variety of performance pitfalls & improvements for parallel programs."
+
+			],
+			"tags": [
+				"Academic Work",
+				"Graphics",
+				"Research"
+			]
+		},
+		{
+			"project": "Introduction to HCI Methods",
+			"organization": "CPSC 344",
+			"startDate": "Sep 2023",
+			"endDate": "Dec 2023",
+			"highlights": [
+				"Learned the fundamentals of user-centered design, including user research, prototyping, and evaluation.",
+				"Developed a study protocol in order to evaluate the usability of an existing web interface.",
+				"Designed & iterated on an updated interface design based on the results of the study."
+			],
+			"tags": [
+				"Academic Work",
+				"UX/UI Design",
+				"Figma",
+				"Research",
+				"Data Analysis"
+			]
+		},
+		{
+			"project": "Online Storefront",
+			"position": "Lead Developer",
+			"organization": "Peko Produce",
+			"startDate": "Dec 2021",
+			"endDate": "May 2023",
+			"highlights": [
+				"Built crucial user features on low time/resource budgets, including the public inventory database, blog/recipe templates, and FAQ system",
+				"Worked with designers to implement multiple site redesigns and rebrands",
+				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes from start-up phase to company acquisition"
+			],
+			"tags": [
+				"Backend Development",
+				"Insomnia",
+				"UI/UX Design",
+				"Corporate",
+				"Side Project",
+				"JavaScript",
+				"HTML",
+				"CSS",
+				"Research"
+			]
+		},
+		{
+			"project": "Selling Strategies",
+			"position": "Backend Developer Intern",
+			"organization": "Shopify",
+			"startDate": "Jan",
+			"endDate": "Sep 2022",
+			"highlights": [
+				"Contributed to development of pre-order, raffle, and try-before-you-buy selling models, allowing merchants to sell products in new ways",
+				"Worked on the implementation of a deferred payment checkout flow which lead to over $3M in raffle order revenue in 1 month",
+				"Exposed internal services on a GraphQL API to allow pre-orders, raffles, and TBYB business models for merchants using Shopify’s headless commerce platform"
+			],
+			"tags": [
+				"Corporate",
+				"Ruby/Rails",
+				"Backend Development",
+				"GraphQL",
+				"Insomnia"
+			]
+		},
+		{
+			"project": "Controls & Peripherals",
+			"position": "Subteam Contractor",
+			"organization": "UBC Thunderbikes",
+			"startDate": "Jul 2020",
+			"endDate": "Jul 2021",
+			"highlights": [
+				"Worked with subteam of mechanical engineers from design phase to early testing phases of an electric motorbike, focusing on the integration of displays and monitoring",
+				"Built a prototype system for both logging and streaming real-time engine data to a web-based dashboard, allowing engineers to remotely observe state during live tests"
+			],
+			"tags": [
+				"Side Project",
+				"JavaScript",
+				"Research"
+			]
+		},
+		{
+			"project": "Business Strategy Development",
+			"position": "Business Analyst Intern",
+			"organization": "TELUS Health",
+			"startDate": "May",
+			"endDate": "Sep 2019",
+			"highlights": [
+				"Automated KPI reporting tasks via Google Sheets integrations, saving over 4 hours of analysis work per week",
+				"Owned and developed processes for qualitative and quantitative reporting at various levels, from team-specific to C-suite and organization-wide.",
+				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration"
+			],
+			"tags": [
+				"Corporate", "Excel", "Data Analysis"
+			]
+		}
+
+	]
+}
