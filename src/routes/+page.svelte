@@ -168,6 +168,7 @@
 		font-size: 12px;
 		padding: 4px 16px;
 		box-shadow: 0px 1px 0px 0px var(--dark);
+		color: var(--dark);
 	}
 
 	#expand:hover {
