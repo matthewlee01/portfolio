@@ -71,6 +71,7 @@
 		grid-template-rows: 0fr;
 		color: var(--light);
 		transition: grid-template-rows 0.1s ease-in-out, color 0.5s ease-in-out;
+		margin-bottom: 8px;
 	}
 
 	.collapsible.expanded {
@@ -104,6 +105,8 @@
 		margin-bottom: -1px;
 		margin-top: -1px;
 		padding: 12px;
+		color: var(--dark);
+		box-shadow: 0px 2px 0px 0px var(--dark);
 	}
 
 	.expanded button {
@@ -113,6 +116,7 @@
 
 	button:hover {
 		background-color: var(--light-mid);
+		box-shadow: none;
 	}
 
 	.expanded button:hover {

@@ -55,7 +55,7 @@
 	<div id="container" transition:fade={{ duration: 300 }}>
 		<div class="control panel">
 			<div id="header">
-				<span class="name">Matthew J. Lee.</span>
+				<span><span class="name">Matthew J Lee.</span></span>
 				<span class="title">Portfolio.</span>
 			</div>
 			<div id="info">
@@ -102,6 +102,7 @@
 	:global(*) {
 		box-sizing: border-box;
 		font-family: 'Inter Variable', sans-serif;
+		letter-spacing: -0.5px;
 	}
 
 	:global(body) {
@@ -143,13 +144,13 @@
 
 	#info {
 		display: flex;
-		margin: 4px 0;
+		margin: 8px 0;
 		justify-content: space-between;
 	}
 
 	#info span {
 		font-size: 16px;
-		margin-top: -2px;
+		margin-top: 4px;
 	}
 
 	.collapsible {
@@ -164,8 +165,9 @@
 	}
 
 	#expand {
-		font-size: 16px;
-		padding: 4px 8px;
+		font-size: 12px;
+		padding: 4px 16px;
+		box-shadow: 0px 1px 0px 0px var(--dark);
 	}
 
 	#expand:hover {
@@ -215,6 +217,8 @@
 	.tag {
 		margin-left: 2px;
 		margin-bottom: 2px;
+		color: var(--dark);
+		box-shadow: 0px 1px 0px 0px var(--dark);
 	}
 
 	.tag.selected {
@@ -224,6 +228,7 @@
 
 	.tag:hover {
 		background-color: var(--light-mid);
+		border-bottom: 1px solid var(--dark);
 	}
 
 	.tag.selected:hover {
@@ -231,7 +236,7 @@
 	}
 
 	.data {
-		margin-top: 2px;
+		margin-top: 8px;
 	}
 
 </style>
