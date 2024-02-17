@@ -84,7 +84,7 @@
 			</div>
 		</div>
 		<div class="data panel">
-			{#each items as item (item.project + item.position + item.irrelevant)}
+			{#each items as item (item.project + item.organization + item.position + item.irrelevant)}
 				<Item {item} />
 			{/each}
 		</div>
@@ -102,7 +102,7 @@
 	:global(*) {
 		box-sizing: border-box;
 		font-family: 'Inter Variable', sans-serif;
-		letter-spacing: -0.5px;
+		letter-spacing: -0px;
 	}
 
 	:global(body) {
@@ -171,10 +171,6 @@
 		color: var(--dark);
 	}
 
-	#expand:hover {
-		background-color: var(--light-mid);
-	}
-
 	.tag-filters {
 		opacity: 0;
 		overflow: hidden;
@@ -227,17 +223,21 @@
 		color: var(--light);
 	}
 
-	.tag:hover {
-		background-color: var(--light-mid);
-		border-bottom: 1px solid var(--dark);
-	}
-
-	.tag.selected:hover {
-		background-color: var(--dark-mid);
-	}
-
 	.data {
 		margin-top: 8px;
 	}
 
+	@media (min-width: 666px) {
+		.tag:hover {
+			background-color: var(--light-mid);
+			border-bottom: 1px solid var(--dark);
+		}
+
+		.tag.selected:hover {
+			background-color: var(--dark-mid);
+		}
+		#expand:hover {
+			background-color: var(--light-mid);
+		}
+	}
 </style>

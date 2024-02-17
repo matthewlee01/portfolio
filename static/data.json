@@ -11,29 +11,45 @@
 		{
 			"category": "Languages",
 			"tags": [
-				"Ruby/Rails",
-				"HTML",
 				"JavaScript",
-				"CSS"
+				"CSS",
+				"HTML",
+				"SQL",
+				"C[++]",
+				"Lisps",
+				"Ruby[Rails]",
+				"CUDA",
+				"Erlang",
+				"GLSL",
+				"GraphQL"
 			]
 		},
 		{
-			"category": "Tools & Skills",
+			"category": "Tools & Technologies",
 			"tags": [
 				"Insomnia",
-				"GraphQL"
+				"Git[Hub]",
+				"Figma",
+				"Svelte",
+				"Excel",
+				"React",
+				"Flutter"
 			]
 		},
 		{
 			"category": "Skills",
 			"tags": [
 				"Backend Development",
+				"Frontend Development",
+				"Technical Writing",
 				"UI/UX Design",
+				"Graphics",
 				"Data Analysis",
 				"Research"
 			]
 		}
 	],
+
 	"items": [
 		{
 			"project": "Daily Code Sketch Practice",
@@ -44,31 +60,11 @@
 				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishng a new animation every day."
 			],
 			"tags": [
-				"Backend Development",
-				"UI/UX Design",
 				"Side Project",
+				"Graphics",
+				"Git[Hub]",
+				"GLSL",
 				"JavaScript"
-			]
-		},
-		{
-			"project": "Online Storefront",
-			"position": "Contract Software Developer",
-			"organization": "Fresh Prep",
-			"startDate": "May 2023",
-			"endDate": "Present",
-			"highlights": [
-				"Developed & updated features for the Peko Produce online storefront, including a major product launch & a regional expansion.",
-				"Streamlined and automated a variety of operational processes, including inventory management, order fulfillment, and customer support.",
-				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes."
-			],
-			"tags": [
-				"Backend Development",
-				"Insomnia",
-				"UI/UX Design",
-				"Corporate",
-				"JavaScript",
-				"HTML",
-				"CSS"
 			]
 		},
 		{
@@ -86,7 +82,68 @@
 				"UX/UI Design",
 				"Figma",
 				"Research",
-				"Data Analysis"
+				"Data Analysis",
+				"Technical Writing"
+			]
+		},
+		{
+			"project": "Personal Website",
+			"organization": "Personal Project",
+			"startDate": "Jul 2023",
+			"endDate": "Present",
+			"highlights": [
+				"An ongoing endeavour to develop and maintain a digital space for my work, writing, and other projects.",
+				"Currently incorporates a main landing page, blog site, and portfolio site."
+			],
+			"tags": [
+				"Side Project",
+				"UX/UI Design",
+				"Technical Writing",
+				"Svelte",
+				"JavaScript",
+				"CSS",
+				"HTML",
+				"Frontend Development"
+			]
+		},
+		{
+			"project": "Online Storefront",
+			"position": "Contract Software Developer",
+			"organization": "Fresh Prep",
+			"startDate": "May 2023",
+			"endDate": "Present",
+			"highlights": [
+				"Developed & updated features for the Peko Produce online storefront, including a major product launch & a regional expansion.",
+				"Streamlined and automated a variety of operational processes, including inventory management, order fulfillment, and customer support.",
+				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes."
+			],
+			"tags": [
+				"Frontend Development",
+				"Technical Writing",
+				"GraphQL",
+				"Git[Hub]",
+				"Figma",
+				"Insomnia",
+				"UI/UX Design",
+				"Corporate",
+				"JavaScript",
+				"HTML",
+				"CSS"
+			]
+		},
+		{
+			"project": "Blog Website",
+			"organization": "Personal Project",
+			"startDate": "Mar 2023",
+			"endDate": "Present",
+			"highlights": [
+				"A repository for my thoughts, ideas, and reflections on various topics, including technology, art, and personal development.",
+				"Has gone through multiple redesigns and rebuilds, but currently exists as a Quartz-powered static site."
+			],
+			"tags": [
+				"Side Project",
+				"Technical Writing",
+				"Frontend Development"
 			]
 		},
 		{
@@ -94,7 +151,9 @@
 			"organization": "Personal Project",
 			"endDate": "Feb 2024",
 			"highlights": [
-				"Built over the course mid-semester reading break."
+				"Developed over the course of mid-semester reading break.",
+				"Designed simple, clean, & responsive interface to be adapted & reused for other people's portfolios.",
+				"Implemented basic data model for customizability, reusability, & separation of content & presentation."
 			],
 			"tags": [
 				"JavaScript",
@@ -102,7 +161,52 @@
 				"HTML",
 				"CSS",
 				"UI/UX Design",
-				"Side Project"
+				"Side Project",
+				"Technical Writing",
+				"Git[Hub]"
+			]
+		},
+		{
+			"project": "Climate Catharsis Exhibit",
+			"organization": "Hatch Art Gallery",
+			"startDate": "Oct 2023",
+			"endDate": "Feb 2024",
+			"highlights": [
+				"Developed an interactive simulation based on academic research on the slime mold Physarum polycephalum.",
+				"Designed & programmed a web-based interface to allow users to interact with the simulation, exploring the emergent properties of the slime mold.",
+				"Showcased at the Hatch Art Gallery as part of the Climate Catharsis exhibition."
+			],
+			"tags": [
+				"JavaScript",
+				"HTML",
+				"CSS",
+				"GLSL",
+				"Frontend Development",
+				"Graphics",
+				"Side Project",
+				"Svelte",
+				"Research"
+			]
+		},
+		{
+			"project": "Hackathon",
+			"organization": "nwHacks 2024",
+			"endDate": "Jan 2024",
+			"highlights": [
+				"Brainstormed & established requirements for a web-based platform to facilitate casual local event planning.",
+				"Designed & implemented a basic working prototype (including user authentication & database integration) of the platform within a 24h period."
+			],
+			"tags": [
+				"JavaScript",
+				"Frontend Development",
+				"HTML",
+				"CSS",
+				"SQL",
+				"Figma",
+				"UI/UX Design",
+				"Side Project",
+				"React",
+				"Git[Hub]"
 			]
 		},
 		{
@@ -119,6 +223,9 @@
 			"tags": [
 				"Academic Work",
 				"Graphics",
+				"C[++]",
+				"Erlang",
+				"CUDA",
 				"Research"
 			]
 		},
@@ -135,6 +242,7 @@
 			"tags": [
 				"Academic Work",
 				"UX/UI Design",
+				"Technical Writing",
 				"Figma",
 				"Research",
 				"Data Analysis"
@@ -147,19 +255,21 @@
 			"startDate": "Dec 2021",
 			"endDate": "May 2023",
 			"highlights": [
-				"Built crucial user features on low time/resource budgets, including the public inventory database, blog/recipe templates, and FAQ system",
-				"Worked with designers to implement multiple site redesigns and rebrands",
-				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes from start-up phase to company acquisition"
+				"Built crucial user features on low time/resource budgets, including the public inventory database, blog/recipe templates, and FAQ system.",
+				"Worked with designers to implement multiple site redesigns and rebrands.",
+				"Managed/maintained codebase and documentation, onboarded interns, and owned technical knowledge/processes from start-up phase to company acquisition."
 			],
 			"tags": [
-				"Backend Development",
+				"Frontend Development",
 				"Insomnia",
+				"GraphQL",
 				"UI/UX Design",
 				"Corporate",
 				"Side Project",
 				"JavaScript",
 				"HTML",
 				"CSS",
+				"Excel",
 				"Research"
 			]
 		},
@@ -170,16 +280,35 @@
 			"startDate": "Jan",
 			"endDate": "Sep 2022",
 			"highlights": [
-				"Contributed to development of pre-order, raffle, and try-before-you-buy selling models, allowing merchants to sell products in new ways",
-				"Worked on the implementation of a deferred payment checkout flow which lead to over $3M in raffle order revenue in 1 month",
-				"Exposed internal services on a GraphQL API to allow pre-orders, raffles, and TBYB business models for merchants using Shopify’s headless commerce platform"
+				"Contributed to development of pre-order, raffle, and try-before-you-buy selling models, allowing merchants to sell products in new ways.",
+				"Worked on the implementation of a deferred payment checkout flow which lead to over $3M in raffle order revenue in 1 month.",
+				"Exposed internal services on a GraphQL API to allow pre-orders, raffles, and TBYB business models for merchants using Shopify’s headless commerce platform."
 			],
 			"tags": [
 				"Corporate",
-				"Ruby/Rails",
+				"Ruby[Rails]",
 				"Backend Development",
 				"GraphQL",
+				"SQL",
 				"Insomnia"
+			]
+		},
+		{
+			"project": "Hackathon",
+			"organization": "Flutter Puzzle Hack 2022",
+			"startDate": "Feb",
+			"endDate": "March 2022",
+			"highlights": [
+				"Built, tested, deployed, and iterated on a web-based puzzle game using Flutter, focusing on the platform-agnostic responsiveness, interactions, & animations.",
+				"Programmed data model & game logic, including randomized level generation & scaling difficulty.",
+				"Learned how to design & rig a small set of assets & animations for the game."
+			],
+			"tags": [
+				"Side Project",
+				"Flutter",
+				"Frontend Development",
+				"Graphics",
+				"UI/UX Design"
 			]
 		},
 		{
@@ -189,12 +318,14 @@
 			"startDate": "Jul 2020",
 			"endDate": "Jul 2021",
 			"highlights": [
-				"Worked with subteam of mechanical engineers from design phase to early testing phases of an electric motorbike, focusing on the integration of displays and monitoring",
-				"Built a prototype system for both logging and streaming real-time engine data to a web-based dashboard, allowing engineers to remotely observe state during live tests"
+				"Worked with subteam of mechanical engineers from design phase to early testing phases of an electric motorbike, focusing on the integration of displays and monitoring.",
+				"Built a prototype system for both logging and streaming real-time engine data to a web-based dashboard, allowing engineers to remotely observe state during live tests."
 			],
 			"tags": [
 				"Side Project",
 				"JavaScript",
+				"Git[Hub]",
+				"Academic Work",
 				"Research"
 			]
 		},

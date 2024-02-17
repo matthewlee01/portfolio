@@ -36,8 +36,8 @@
 </div>
 
 <style>
-
-	.title, .dates {
+	.title,
+	.dates {
 		display: flex;
 		align-items: center;
 		justify-content: space-between;
@@ -113,13 +113,14 @@
 		background-color: var(--dark);
 		color: var(--light);
 	}
+	@media (min-width: 666px) {
+		.expanded button:hover {
+			background-color: var(--dark-mid);
+		}
 
-	button:hover {
-		background-color: var(--light-mid);
-		box-shadow: none;
-	}
-
-	.expanded button:hover {
-		background-color: var(--dark-mid);
+		button:hover {
+			background-color: var(--light-mid);
+			box-shadow: none;
+		}
 	}
 </style>
