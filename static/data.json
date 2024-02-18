@@ -2,11 +2,7 @@
 	"tagDirectory": [
 		{
 			"category": "Project Type",
-			"tags": [
-				"Corporate",
-				"Side Project",
-				"Academic Work"
-			]
+			"tags": ["Corporate", "Side Project", "Academic Work"]
 		},
 		{
 			"category": "Languages",
@@ -26,15 +22,7 @@
 		},
 		{
 			"category": "Tools & Technologies",
-			"tags": [
-				"Insomnia",
-				"Git[Hub]",
-				"Figma",
-				"Svelte",
-				"Excel",
-				"React",
-				"Flutter"
-			]
+			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter"]
 		},
 		{
 			"category": "Skills",
@@ -59,13 +47,7 @@
 			"highlights": [
 				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishng a new animation every day."
 			],
-			"tags": [
-				"Side Project",
-				"Graphics",
-				"Git[Hub]",
-				"GLSL",
-				"JavaScript"
-			]
+			"tags": ["Side Project", "Graphics", "Git[Hub]", "GLSL", "JavaScript"]
 		},
 		{
 			"project": "Advanced Methods for HCI",
@@ -103,7 +85,8 @@
 				"JavaScript",
 				"CSS",
 				"HTML",
-				"Frontend Development"
+				"Frontend Development",
+				"Git[Hub]"
 			]
 		},
 		{
@@ -140,11 +123,7 @@
 				"A repository for my thoughts, ideas, and reflections on various topics, including technology, art, and personal development.",
 				"Has gone through multiple redesigns and rebuilds, but currently exists as a Quartz-powered static site."
 			],
-			"tags": [
-				"Side Project",
-				"Technical Writing",
-				"Frontend Development"
-			]
+			"tags": ["Side Project", "Technical Writing", "Frontend Development", "Git[Hub]"]
 		},
 		{
 			"project": "Portfolio Website",
@@ -185,7 +164,8 @@
 				"Graphics",
 				"Side Project",
 				"Svelte",
-				"Research"
+				"Research",
+				"Git[Hub]"
 			]
 		},
 		{
@@ -218,16 +198,8 @@
 				"Studied a variety of parallel algorithms, memory systems, & architectures.",
 				"Gained hands-on experience programming & optimizing CUDA kernels on a GPU.",
 				"Analyzed a variety of performance pitfalls & improvements for parallel programs."
-
 			],
-			"tags": [
-				"Academic Work",
-				"Graphics",
-				"C[++]",
-				"Erlang",
-				"CUDA",
-				"Research"
-			]
+			"tags": ["Academic Work", "Graphics", "C[++]", "Erlang", "CUDA", "Research"]
 		},
 		{
 			"project": "Introduction to HCI Methods",
@@ -270,7 +242,8 @@
 				"HTML",
 				"CSS",
 				"Excel",
-				"Research"
+				"Research",
+				"Git[Hub]"
 			]
 		},
 		{
@@ -290,6 +263,7 @@
 				"Backend Development",
 				"GraphQL",
 				"SQL",
+				"Git[Hub]",
 				"Insomnia"
 			]
 		},
@@ -308,6 +282,7 @@
 				"Flutter",
 				"Frontend Development",
 				"Graphics",
+				"Git[Hub]",
 				"UI/UX Design"
 			]
 		},
@@ -321,13 +296,7 @@
 				"Worked with subteam of mechanical engineers from design phase to early testing phases of an electric motorbike, focusing on the integration of displays and monitoring.",
 				"Built a prototype system for both logging and streaming real-time engine data to a web-based dashboard, allowing engineers to remotely observe state during live tests."
 			],
-			"tags": [
-				"Side Project",
-				"JavaScript",
-				"Git[Hub]",
-				"Academic Work",
-				"Research"
-			]
+			"tags": ["Side Project", "JavaScript", "Git[Hub]", "Academic Work", "Research"]
 		},
 		{
 			"project": "Business Strategy Development",
@@ -340,10 +309,7 @@
 				"Owned and developed processes for qualitative and quantitative reporting at various levels, from team-specific to C-suite and organization-wide.",
 				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration"
 			],
-			"tags": [
-				"Corporate", "Excel", "Data Analysis"
-			]
+			"tags": ["Corporate", "Excel", "Data Analysis", "Technical Writing", "Research"]
 		}
-
 	]
 }
