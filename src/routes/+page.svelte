@@ -59,7 +59,16 @@
 				<span class="title">Portfolio.</span>
 			</div>
 			<div id="info">
-				<span>An interactive record of my work.</span>
+				<div>
+					<span>An interactive record of my work.</span><br />
+					<span><a href="https://github.com/matthewlee01" target="_blank">GitHub. </a></span>
+					<span
+						><a href="https://www.linkedin.com/in/matthew-lee01/" target="_blank"
+							>LinkedIn.
+						</a></span
+					>
+					<span><a href="/resume.pdf" target="_blank">Resume.</a></span>
+				</div>
 				<button id="expand" on:click={() => (expanded = !expanded)}>
 					{expanded ? '△' : '▽'}
 				</button>
@@ -88,6 +97,14 @@
 				<Item {item} />
 			{/each}
 		</div>
+		<div class="footer panel">
+			<span
+				><a href="https://matthewjl.xyz/">Home.</a>
+				<a href="https://github.com/matthewlee01" target="_blank">GitHub. </a>
+				<a href="https://www.linkedin.com/in/matthew-lee01/" target="_blank">LinkedIn. </a></span
+			>
+			<span>© 2024 Matthew J Lee.</span>
+		</div>
 	</div>
 {/if}
 
@@ -98,7 +115,11 @@
 		--light-mid: #fff0d7;
 		--dark-mid: #73c9af;
 		--accent: #bf4e22;
-		--accent-mid: #783116; 
+		--accent-mid: #783116;
+	}
+
+	a {
+		color: var(--dark);
 	}
 
 	:global(*) {
@@ -133,7 +154,7 @@
 	}
 
 	.name {
-		font-weight: 600;
+		font-weight: 700;
 		font-size: 32px;
 		margin-right: 4px;
 		color: var(--accent);
@@ -151,13 +172,12 @@
 
 	#info {
 		display: flex;
-		margin: 8px 0;
+		margin: 4px 0;
 		justify-content: space-between;
 	}
 
 	#info span {
-		font-size: 16px;
-		margin-top: 4px;
+		font-size: 14px;
 	}
 
 	.collapsible {
@@ -173,7 +193,8 @@
 
 	#expand {
 		font-size: 12px;
-		padding: 4px 16px;
+		margin: 4px 0;
+		padding: 0px 16px;
 		box-shadow: 0px 1px 0px 0px var(--dark);
 		color: var(--dark);
 	}
@@ -234,6 +255,13 @@
 
 	.data {
 		margin-top: 8px;
+	}
+
+	.footer {
+		display: flex;
+		justify-content: space-between;
+		margin-top: 4px;
+		font-size: 12px;
 	}
 
 	@media (min-width: 666px) {

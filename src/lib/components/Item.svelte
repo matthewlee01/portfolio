@@ -30,12 +30,19 @@
 				{#each highlights as highlight (highlight)}
 					<li>{highlight}</li>
 				{/each}
+				{#if item.link}
+					<li><a target="_blank" href={item.link.href}>{item.link.text}</a></li>
+				{/if}
 			</ul>
 		</div>
 	</div>
 </div>
 
 <style>
+	a {
+		color: var(--accent);
+	}
+
 	.title,
 	.dates {
 		display: flex;
@@ -80,7 +87,6 @@
 		color: var(--dark);
 		border: 1px solid var(--accent-mid);
 		color: var(--accent-mid);
-		
 	}
 
 	.content {

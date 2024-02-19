@@ -47,7 +47,11 @@
 			"highlights": [
 				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishng a new animation every day."
 			],
-			"tags": ["Side Project", "Graphics", "Git[Hub]", "GLSL", "JavaScript"]
+			"tags": ["Side Project", "Graphics", "Git[Hub]", "GLSL", "JavaScript"],
+			"link": {
+				"href": "https://www.instagram.com/hello.computer/",
+				"text": "View gallery."
+			}
 		},
 		{
 			"project": "Advanced Methods for HCI",
@@ -87,7 +91,11 @@
 				"HTML",
 				"Frontend Development",
 				"Git[Hub]"
-			]
+			],
+			"link": {
+				"href": "https://matthewjl.xyz/",
+				"text": "View site."
+			}
 		},
 		{
 			"project": "Online Storefront",
@@ -123,7 +131,11 @@
 				"A repository for my thoughts, ideas, and reflections on various topics, including technology, art, and personal development.",
 				"Has gone through multiple redesigns and rebuilds, but currently exists as a Quartz-powered static site."
 			],
-			"tags": ["Side Project", "Technical Writing", "Frontend Development", "Git[Hub]"]
+			"tags": ["Side Project", "Technical Writing", "Frontend Development", "Git[Hub]"],
+			"link": {
+				"href": "https://fieldnotes.matthewjl.xyz/",
+				"text": "View blog."
+			}
 		},
 		{
 			"project": "Personal Project",
@@ -143,11 +155,16 @@
 				"Side Project",
 				"Technical Writing",
 				"Git[Hub]"
-			]
+			],
+			"link": {
+				"href": "https://portfolio.matthewjl.xyz",
+				"text": "View site."
+			}
 		},
 		{
 			"project": "Climate Catharsis Exhibit",
 			"organization": "Hatch Art Gallery",
+			"position": "Exhibitor",
 			"startDate": "Oct 2023",
 			"endDate": "Feb 2024",
 			"highlights": [
@@ -188,7 +205,11 @@
 				"Side Project",
 				"React",
 				"Git[Hub]"
-			]
+			],
+			"link": {
+				"href": "https://github.com/nand2246/planit",
+				"text": "View repository."
+			}
 		},
 		{
 			"project": "Parallel Computation",
@@ -245,7 +266,11 @@
 				"Excel",
 				"Research",
 				"Git[Hub]"
-			]
+			],
+			"link": {
+				"href": "https://www.pekoproduce.com/",
+				"text": "View site."
+			}
 		},
 		{
 			"project": "Selling Strategies",
@@ -286,7 +311,24 @@
 				"Graphics",
 				"Git[Hub]",
 				"UI/UX Design"
-			]
+			],
+			"link": {
+				"href": "https://acres.matthewjl.xyz/",
+				"text": "Play the game."
+			}
+		},
+		{
+			"project": "Business Strategy Development",
+			"position": "Business Analyst Intern",
+			"organization": "TELUS Health",
+			"startDate": "May",
+			"endDate": "Sep 2021",
+			"highlights": [
+				"Automated KPI reporting tasks via Google Sheets integrations, saving over 4 hours of analysis work per week",
+				"Owned and developed processes for qualitative and quantitative reporting at various levels, from team-specific to C-suite and organization-wide.",
+				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration"
+			],
+			"tags": ["Corporate", "Excel", "Data Analysis", "Technical Writing", "Research"]
 		},
 		{
 			"project": "Controls & Peripherals",
@@ -317,20 +359,36 @@
 				"SQL",
 				"Side Project",
 				"Git[Hub]"
-			]
+			],
+			"link": {
+				"href": "https://github.com/matthewlee01/fridge-api",
+				"text": "View repository."
+			}
 		},
 		{
-			"project": "Business Strategy Development",
-			"position": "Business Analyst Intern",
-			"organization": "TELUS Health",
+			"project": "Online Beauty Service Marketplace",
+			"position": "Software Developer Intern",
+			"organization": "J3MC Software",
 			"startDate": "May",
 			"endDate": "Sep 2019",
 			"highlights": [
-				"Automated KPI reporting tasks via Google Sheets integrations, saving over 4 hours of analysis work per week",
-				"Owned and developed processes for qualitative and quantitative reporting at various levels, from team-specific to C-suite and organization-wide.",
-				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration"
+				"Implemented basic features during early-stage development of the web app and database.",
+				"Added pagination to SQL list queries using timestamp-offset continuation tokens, preventing skipped items and removing the need for server-side state.",
+				"Implemented Clojure specification library to validate data structure integrity at REST endpoints."
 			],
-			"tags": ["Corporate", "Excel", "Data Analysis", "Technical Writing", "Research"]
+			"tags": [
+				"Frontend Development",
+				"SQL",
+				"Lisps",
+				"Backend Development",
+				"Git[Hub]",
+				"Side Project",
+				"Corporate"
+			],
+			"link": {
+				"href": "https://github.com/matthewlee01/get-glowing-backend",
+				"text": "View repository."
+			}
 		}
 	]
 }
