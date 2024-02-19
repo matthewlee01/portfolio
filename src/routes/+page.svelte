@@ -93,10 +93,12 @@
 
 <style>
 	:global(:root) {
-		--dark: #161616;
-		--light: #f8f8f8;
-		--light-mid: #e8e8e8;
-		--dark-mid: #484848;
+		--dark: #53917e;
+		--light: #fff8f0;
+		--light-mid: #fff0d7;
+		--dark-mid: #73c9af;
+		--accent: #bf4e22;
+		--accent-mid: #783116; 
 	}
 
 	:global(*) {
@@ -109,6 +111,10 @@
 		margin: 0;
 		padding: 0;
 		background-color: var(--light);
+	}
+
+	span {
+		color: var(--dark);
 	}
 
 	#container {
@@ -130,6 +136,7 @@
 		font-weight: 600;
 		font-size: 32px;
 		margin-right: 4px;
+		color: var(--accent);
 	}
 
 	.title {
@@ -219,8 +226,10 @@
 	}
 
 	.tag.selected {
-		background-color: var(--dark);
+		background-color: var(--accent);
 		color: var(--light);
+		box-shadow: 0px 1px 0px 0px var(--accent-mid);
+		border: 1px solid var(--accent-mid);
 	}
 
 	.data {
@@ -230,11 +239,10 @@
 	@media (min-width: 666px) {
 		.tag:hover {
 			background-color: var(--light-mid);
-			border-bottom: 1px solid var(--dark);
 		}
 
 		.tag.selected:hover {
-			background-color: var(--dark-mid);
+			background-color: var(--accent-mid);
 		}
 		#expand:hover {
 			background-color: var(--light-mid);

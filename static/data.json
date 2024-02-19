@@ -40,8 +40,8 @@
 
 	"items": [
 		{
-			"project": "Daily Code Sketch Practice",
-			"organization": "Personal Project",
+			"project": "Personal Project",
+			"organization": "Daily Code Sketch Practice",
 			"startDate": "Jan 2024",
 			"endDate": "Present",
 			"highlights": [
@@ -69,8 +69,8 @@
 			]
 		},
 		{
-			"project": "Personal Website",
-			"organization": "Personal Project",
+			"project": "Personal Project",
+			"organization": "Personal Website",
 			"startDate": "Jul 2023",
 			"endDate": "Present",
 			"highlights": [
@@ -115,8 +115,8 @@
 			]
 		},
 		{
-			"project": "Blog Website",
-			"organization": "Personal Project",
+			"project": "Personal Project",
+			"organization": "Blog",
 			"startDate": "Mar 2023",
 			"endDate": "Present",
 			"highlights": [
@@ -126,8 +126,8 @@
 			"tags": ["Side Project", "Technical Writing", "Frontend Development", "Git[Hub]"]
 		},
 		{
-			"project": "Portfolio Website",
-			"organization": "Personal Project",
+			"project": "Personal Project",
+			"organization": "Portfolio Website",
 			"endDate": "Feb 2024",
 			"highlights": [
 				"Developed over the course of mid-semester reading break.",
@@ -171,6 +171,7 @@
 		{
 			"project": "Hackathon",
 			"organization": "nwHacks 2024",
+			"position": "Participant",
 			"endDate": "Jan 2024",
 			"highlights": [
 				"Brainstormed & established requirements for a web-based platform to facilitate casual local event planning.",
@@ -270,6 +271,7 @@
 		{
 			"project": "Hackathon",
 			"organization": "Flutter Puzzle Hack 2022",
+			"position": "Participant",
 			"startDate": "Feb",
 			"endDate": "March 2022",
 			"highlights": [
@@ -297,6 +299,25 @@
 				"Built a prototype system for both logging and streaming real-time engine data to a web-based dashboard, allowing engineers to remotely observe state during live tests."
 			],
 			"tags": ["Side Project", "JavaScript", "Git[Hub]", "Academic Work", "Research"]
+		},
+		{
+			"project": "Hackathon",
+			"organization": "nwHacks 2021",
+			"position": "Participant",
+			"endDate": "Jan 2021",
+			"highlights": [
+				"Brainstormed & established requirements for a web-based app to share & arrange virtual sticky notes.",
+				"Designed & implemented a basic working prototype (including real-time collaboration & room registration) of the app within a 24h period."
+			],
+			"tags": [
+				"JavaScript",
+				"Frontend Development",
+				"HTML",
+				"CSS",
+				"SQL",
+				"Side Project",
+				"Git[Hub]"
+			]
 		},
 		{
 			"project": "Business Strategy Development",

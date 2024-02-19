@@ -72,16 +72,19 @@
 		color: var(--light);
 		transition: grid-template-rows 0.1s ease-in-out, color 0.5s ease-in-out;
 		margin-bottom: 8px;
+		border: 1px solid var(--dark);
 	}
 
 	.collapsible.expanded {
 		grid-template-rows: 1fr;
 		color: var(--dark);
+		border: 1px solid var(--accent-mid);
+		color: var(--accent-mid);
+		
 	}
 
 	.content {
 		overflow: hidden;
-		border: 1px solid black;
 		border-top: none;
 	}
 
@@ -110,12 +113,14 @@
 	}
 
 	.expanded button {
-		background-color: var(--dark);
+		background-color: var(--accent);
+		border: 1px solid var(--accent-mid);
 		color: var(--light);
+		box-shadow: 0px 2px 0px 0px var(--accent-mid);
 	}
 	@media (min-width: 666px) {
 		.expanded button:hover {
-			background-color: var(--dark-mid);
+			background-color: var(--accent-mid);
 		}
 
 		button:hover {
