@@ -45,7 +45,7 @@
 			"startDate": "Jan 2024",
 			"endDate": "Present",
 			"highlights": [
-				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishng a new animation every day."
+				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishing a new animation every day."
 			],
 			"tags": ["Side Project", "Graphics", "Git[Hub]", "GLSL", "JavaScript"],
 			"link": {
@@ -226,7 +226,7 @@
 		{
 			"project": "Introduction to HCI Methods",
 			"organization": "CPSC 344",
-			"startDate": "Sep 2023",
+			"startDate": "Sep",
 			"endDate": "Dec 2023",
 			"highlights": [
 				"Learned the fundamentals of user-centered design, including user research, prototyping, and evaluation.",
@@ -324,9 +324,9 @@
 			"startDate": "May",
 			"endDate": "Sep 2021",
 			"highlights": [
-				"Automated KPI reporting tasks via Google Sheets integrations, saving over 4 hours of analysis work per week",
+				"Automated KPI reporting tasks via Google Sheets integrations, saving over 4 hours of analysis work per week.",
 				"Owned and developed processes for qualitative and quantitative reporting at various levels, from team-specific to C-suite and organization-wide.",
-				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration"
+				"Coordinated communication across subteams, scheduling meetings and cross-referencing data to ensure smooth alignment and collaboration."
 			],
 			"tags": ["Corporate", "Excel", "Data Analysis", "Technical Writing", "Research"]
 		},
