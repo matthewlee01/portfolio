@@ -8,6 +8,7 @@
 			"category": "Languages",
 			"tags": [
 				"JavaScript",
+				"Go",
 				"CSS",
 				"HTML",
 				"SQL",
@@ -22,7 +23,7 @@
 		},
 		{
 			"category": "Tools & Technologies",
-			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter"]
+			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter", "Protobuf"]
 		},
 		{
 			"category": "Skills",
@@ -40,12 +41,61 @@
 
 	"items": [
 		{
+			"project": "Software Platform",
+			"position": "Software Developer",
+			"organization": "Glaive",
+			"startDate": "May 2024",
+			"endDate": "Present",
+			"highlights": [
+				"Developed a web-based platform for generating datasets & trained models for custom AI tasks.",
+				"Designed UIs, APIs, & data models for user interaction, data management, & model training."
+			],
+			"tags": [
+				"Backend Development",
+				"Frontend Development",
+				"Technical Writing",
+				"SQL",
+				"UI/UX Design",
+				"JavaScript",
+				"Go",
+				"Protobuf",
+				"Git[Hub]"
+			],
+			"link": {
+				"href": "https://glaive.ai/",
+				"text": "View site."
+			}
+		},
+		{
+			"project": "Corporate Website",
+			"position": "Contract Software Developer",
+			"organization": "Cascade Climate",
+			"startDate": "Mar 2024",
+			"endDate": "May 2024",
+			"highlights": [
+				"Rebuilt a WordPress site using modern web technologies, significantly improving SEO, performance, and maintainability."
+			],
+			"tags": [
+				"Frontend Development",
+				"Technical Writing",
+				"Corporate",
+				"JavaScript",
+				"HTML",
+				"CSS",
+				"Git[Hub]"
+			],
+			"link": {
+				"href": "https://cascadeclimate.org/",
+				"text": "View site."
+			}
+		},
+		{
 			"project": "Personal Project",
 			"organization": "Daily Code Sketch Practice",
 			"startDate": "Jan 2024",
-			"endDate": "Present",
+			"endDate": "Mar 2024",
 			"highlights": [
-				"An ongoing endeavor to practice and improve my math, design, and programming skills by creating & publishing a new animation every day."
+				"An self-teaching endeavor to practice and improve my math, design, and programming skills by creating & publishing a new animation every day."
 			],
 			"tags": ["Side Project", "Graphics", "Git[Hub]", "GLSL", "JavaScript"],
 			"link": {
@@ -57,7 +107,7 @@
 			"project": "Advanced Methods for HCI",
 			"organization": "CPSC 444",
 			"startDate": "Jan 2024",
-			"endDate": "Present",
+			"endDate": "Apr 2024",
 			"highlights": [
 				"Researched, planned, and proposed a directed study to address the issue of digital clutter.",
 				"Devised & executed a series of user questionnaires, interviews, and usability tests to gain a better understanding of the problem space.",
