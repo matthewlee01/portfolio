@@ -23,7 +23,7 @@
 		},
 		{
 			"category": "Tools & Technologies",
-			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter", "Protobuf"]
+			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter", "Protobuf", "Temporal"]
 		},
 		{
 			"category": "Skills",
@@ -42,10 +42,10 @@
 	"items": [
 		{
 			"project": "Software Platform",
-			"position": "Software Developer",
+			"position": "Founding Software Developer",
 			"organization": "Glaive",
 			"startDate": "May 2024",
-			"endDate": "Present",
+			"endDate": "Jun 2025",
 			"highlights": [
 				"Developed a web-based platform for generating datasets & trained models for custom AI tasks.",
 				"Designed UIs, APIs, & data models for user interaction, data management, & model training."
@@ -54,12 +54,17 @@
 				"Backend Development",
 				"Frontend Development",
 				"Technical Writing",
-				"SQL",
+				"Research",
+				"Data Analysis",
 				"UI/UX Design",
+				"SQL",
 				"JavaScript",
 				"Go",
 				"Protobuf",
-				"Git[Hub]"
+				"Git[Hub]",
+				"React",
+				"Temporal",
+				"Figma"
 			],
 			"link": {
 				"href": "https://glaive.ai/",

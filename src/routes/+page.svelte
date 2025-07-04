@@ -103,7 +103,7 @@
 				<a href="https://github.com/matthewlee01" target="_blank">GitHub. </a>
 				<a href="https://www.linkedin.com/in/matthew-lee01/" target="_blank">LinkedIn. </a></span
 			>
-			<span>© 2024 Matthew J Lee.</span>
+			<span>© 2025 Matthew J Lee.</span>
 		</div>
 	</div>
 {/if}
