@@ -12,16 +12,16 @@
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^6.0.1",
 		"@sveltejs/kit": "^2.25.0",
-		"eslint": "^8.28.0",
-		"eslint-config-prettier": "^8.5.0",
-		"eslint-plugin-svelte": "^2.30.0",
-		"prettier": "^2.8.0",
+		"eslint": "^8.57.1",
+		"eslint-config-prettier": "^8.10.0",
+		"eslint-plugin-svelte": "^2.46.1",
+		"prettier": "^2.8.8",
 		"prettier-plugin-svelte": "^2.10.1",
 		"svelte": "^5.36.7",
-		"vite": "^4.4.2"
+		"vite": "^4.5.14"
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource-variable/inter": "^5.0.16"
+		"@fontsource-variable/inter": "^5.2.6"
 	}
 }
