@@ -10,7 +10,6 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"devDependencies": {
-		"@sveltejs/adapter-auto": "^6.0.1",
 		"@sveltejs/kit": "^2.25.0",
 		"eslint": "^9.31.0",
 		"eslint-config-prettier": "^10.1.5",
@@ -22,6 +21,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@fontsource-variable/inter": "^5.2.6"
+		"@fontsource-variable/inter": "^5.2.6",
+		"@sveltejs/adapter-auto": "^6.0.1"
 	}
 }
