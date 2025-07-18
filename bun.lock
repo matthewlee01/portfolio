@@ -7,7 +7,7 @@
         "@fontsource-variable/inter": "^5.0.16",
       },
       "devDependencies": {
-        "@sveltejs/adapter-auto": "^2.0.0",
+        "@sveltejs/adapter-auto": "^6.0.1",
         "@sveltejs/kit": "^1.20.4",
         "eslint": "^8.28.0",
         "eslint-config-prettier": "^8.5.0",
@@ -104,7 +104,7 @@
 
     "@polka/url": ["@polka/url@1.0.0-next.23", "", {}, "sha512-C16M+IYz0rgRhWZdCmK+h58JMv8vijAA61gmz2rspCSwKwzBebpdcsiUmwrtJRdphuY30i6BSLEOP8ppbNLyLg=="],
 
-    "@sveltejs/adapter-auto": ["@sveltejs/adapter-auto@2.1.1", "", { "dependencies": { "import-meta-resolve": "^4.0.0" }, "peerDependencies": { "@sveltejs/kit": "^1.0.0" } }, "sha512-nzi6x/7/3Axh5VKQ8Eed3pYxastxoa06Y/bFhWb7h3Nu+nGRVxKAy3+hBJgmPCwWScy8n0TsstZjSVKfyrIHkg=="],
+    "@sveltejs/adapter-auto": ["@sveltejs/adapter-auto@6.0.1", "", { "peerDependencies": { "@sveltejs/kit": "^2.0.0" } }, "sha512-mcWud3pYGPWM2Pphdj8G9Qiq24nZ8L4LB7coCUckUEy5Y7wOWGJ/enaZ4AtJTcSm5dNK1rIkBRoqt+ae4zlxcQ=="],
 
     "@sveltejs/kit": ["@sveltejs/kit@1.27.5", "", { "dependencies": { "@sveltejs/vite-plugin-svelte": "^2.5.0", "@types/cookie": "^0.5.1", "cookie": "^0.5.0", "devalue": "^4.3.1", "esm-env": "^1.0.0", "kleur": "^4.1.5", "magic-string": "^0.30.0", "mrmime": "^1.0.1", "sade": "^1.8.1", "set-cookie-parser": "^2.6.0", "sirv": "^2.0.2", "tiny-glob": "^0.2.9", "undici": "~5.26.2" }, "peerDependencies": { "svelte": "^3.54.0 || ^4.0.0-next.0 || ^5.0.0-next.0", "vite": "^4.0.0" }, "bin": { "svelte-kit": "svelte-kit.js" } }, "sha512-+L1WPs/ZYNjXoBFoFARypD4aZOjkT51vFpRCtQI45+Fmmfi4Y0dH/8VFlmYD6VlGe89ViIPg7lgf/JpGQ2tr7A=="],
 
@@ -237,8 +237,6 @@
     "ignore": ["ignore@5.2.4", "", {}, "sha512-MAb38BcSbH0eHNBxn7ql2NH/kX33OkB3lZ1BNdh7ENeRChHTYsTvWrMubiIAMNS2llXEEgZ1MUOBtXChP3kaFQ=="],
 
     "import-fresh": ["import-fresh@3.3.0", "", { "dependencies": { "parent-module": "^1.0.0", "resolve-from": "^4.0.0" } }, "sha512-veYYhQa+D1QBKznvhUHxb8faxlrwUnxseDAbAp457E0wLNio2bOSKnjYDhMj+YiAq61xrMGhQk9iXVk5FzgQMw=="],
-
-    "import-meta-resolve": ["import-meta-resolve@4.0.0", "", {}, "sha512-okYUR7ZQPH+efeuMJGlq4f8ubUgO50kByRPyt/Cy1Io4PSRsPjxME+YlVaCOx+NIToW7hCsZNFJyTPFFKepRSA=="],
 
     "imurmurhash": ["imurmurhash@0.1.4", "", {}, "sha512-JmXMZ6wuvDmLiHEml9ykzqO6lwFbof0GG4IkcGaENdCRDDmMVnny7s5HsIgHCbaq0w2MyPhDqkhTUgS2LU2PHA=="],
 
