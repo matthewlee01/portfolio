@@ -23,7 +23,17 @@
 		},
 		{
 			"category": "Tools & Technologies",
-			"tags": ["Insomnia", "Git[Hub]", "Figma", "Svelte", "Excel", "React", "Flutter", "Protobuf", "Temporal"]
+			"tags": [
+				"Insomnia",
+				"Git[Hub]",
+				"Figma",
+				"Svelte",
+				"Excel",
+				"React",
+				"Flutter",
+				"Protobuf",
+				"Temporal"
+			]
 		},
 		{
 			"category": "Skills",
@@ -47,8 +57,18 @@
 			"startDate": "May 2024",
 			"endDate": "Jun 2025",
 			"highlights": [
-				"Developed a web-based platform for generating datasets & trained models for custom AI tasks.",
-				"Designed UIs, APIs, & data models for user interaction, data management, & model training."
+				"Designed and implemented a browser parquet dataset viewer with search, filtering, and queries.",
+				"Maintained a dev diary, publishing weekly updates on engineering progress and feature releases.",
+				"Built a schema system for specifying structured inputs and outputs from LLMs, including a validation system and interacting UI.",
+				"Implemented a variety of usability/UI/UX features such as tooltips, tutorials, responsive components, and shortcuts.",
+				"Designed and built a companion web app for sharing, exploring, forking, and viewing datasets.",
+				"Used Temporal to manage long-running durable workflows with backoffs, retries, and observability.",
+				"Implemented custom version control system with forks, reverts, and collaboration.",
+				"Wrote unit tests to validate and preserve logic across refactors.",
+				"Devised artifact system to preserve intermediate steps of long-running processes.",
+				"Implemented multipart upload form for large datasets.",
+				"Designed, implemented, and redesigned a distributed cloud inference system, achieving 10x cheaper costs per token for bulk inference.",
+				"Worked with designer to build and maintain frontend of web app."
 			],
 			"tags": [
 				"Backend Development",
