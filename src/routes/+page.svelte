@@ -17,6 +17,7 @@
 	});
 
 	const toggleTag = (tag) => {
+		console.log(tag, selectedTags);
 		if (selectedTags.has(tag)) {
 			selectedTags.delete(tag);
 		} else {
@@ -83,7 +84,7 @@
 									<button
 										class={'tag ' + (selectedTags.has(tag) ? 'selected' : 'deselected')}
 										id={tag}
-										on:click={toggleTag(tag)}>{tag}</button
+										on:click={() =>toggleTag(tag)}>{tag}</button
 									>
 								{/each}
 							</div>
